@@ -1,7 +1,7 @@
 # Anderson Silva
 
 
-## Olá PessoALL 👋
+## Opa gente 👋
 
  
 Procuro sempre algo que me desafie e que sempre me faça buscar me aperfeiçoar, tanto profissionalmente quanto pessoalmente. Acredito sempre no potencial dos meus colegas, de que eles podem ter ideias que aperfeiçoem meu jeito de pensar sobre oque estou tentando resolver ou até mesmo ideias melhores e inovadoras. 
@@ -12,5 +12,6 @@ Procuro sempre algo que me desafie e que sempre me faça buscar me aperfeiçoar,
 - 📫 Onde me encontrar: 
   - LinkedIn https://www.linkedin.com/in/anderson-conceicao-silva/
   - E-mail: anderson.conceicao@arapiraca.ufal.br
+  
 
 
