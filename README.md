@@ -1,16 +1,16 @@
-### Hi there 👋
+# Anderson Silva
 
-<!--
-**Mrprey/Mrprey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Olá PessoALL 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+Procuro sempre algo que me desafie e que sempre me faça buscar me aperfeiçoar, tanto profissionalmente quanto pessoalmente. Acredito sempre no potencial dos meus colegas, de que eles podem ter ideias que aperfeiçoem meu jeito de pensar sobre oque estou tentando resolver ou até mesmo ideias melhores e inovadoras. 
+
+- 🔭Sou graduando do curso de Ciência da Computação, estou há cerca de dois anos em iniciação cientifica em nálise e manipulação de dados e aplicando paralelismo para otimização dos resultados.
+- 🌱 Estou me aventurando no universo do desenvolvimento mobile usando Kotlin. 
+- 💬 Sobre mim: Curto muitooo tecnologia, games, um lolzinho de vez em quando  e Animes.
+- 📫 Onde me encontrar: 
+  - LinkedIn https://www.linkedin.com/in/anderson-conceicao-silva/
+  - E-mail: anderson.conceicao@arapiraca.ufal.br
+
+
