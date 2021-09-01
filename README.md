@@ -13,5 +13,11 @@ Procuro sempre algo que me desafie e que sempre me faça buscar me aperfeiçoar,
   - LinkedIn https://www.linkedin.com/in/anderson-conceicao-silva/
   - E-mail: anderson.conceicao@arapiraca.ufal.br
   
+  
+     <div style="display: inline-block"><br>
+  <a href="https://github.com/Mrprey">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mrprey&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrpreyt&layout=compact&langs_count=16&theme=highcontrast"/>
+</div>
 
 
