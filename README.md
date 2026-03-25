@@ -63,6 +63,6 @@ Tenho experiência com testes automatizados, organização de arquitetura e cola
 
 <div align="center">
 
-  <img src="https://github.com/Mrprey/Mrprey/blob/output/github-contribution-grid-snake.svg" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mrprey&theme=tokyonight" />
 
 </div>
