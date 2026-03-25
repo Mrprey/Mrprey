@@ -1,23 +1,68 @@
-# Anderson da Conceição da Silva
+# Anderson Conceição Silva
 
+## 👨‍💻 Software Engineer | Flutter Developer
 
-## Opa gente 👋
+Engenheiro de software com experiência no desenvolvimento e evolução de aplicações em produção utilizando Flutter (web, desktop e mobile). Atuo com manutenção de sistemas, implementação de funcionalidades, refatoração de código e melhoria de experiência do usuário.
 
- 
-Procuro sempre algo que me desafie e que sempre me faça buscar me aperfeiçoar, tanto profissionalmente quanto pessoalmente. Acredito sempre no potencial dos meus colegas, de que eles podem ter ideias que aperfeiçoem meu jeito de pensar sobre oque estou tentando resolver ou até mesmo ideias melhores e inovadoras. 
+Tenho experiência com testes automatizados, organização de arquitetura e colaboração em times ágeis. Busco sempre escrever código limpo, escalável e de fácil manutenção.
 
-- 🔭Sou graduando do curso de Ciência da Computação, estou há cerca de dois anos em iniciação cientifica em análise e manipulação de dados e aplicando paralelismo para otimização dos resultados.
-- 🌱 Estou me aventurando no universo do desenvolvimento mobile usando Kotlin. 
-- 💬 Sobre mim: Curto muitooo tecnologia, games, um lolzinho de vez em quando  e Animes.
-- 📫 Onde me encontrar: 
-  - LinkedIn https://www.linkedin.com/in/anderson-conceicao-silva/
-  - E-mail: anderson.conceicao@arapiraca.ufal.br
-  
-  
-   <div style="display: inline-block"><br>
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+- Flutter, Dart
+- Kotlin (secundário), Java
+- Redux, GraphQL, REST APIs
+- Testes: unitários e widget (flutter_test, package:test)
+- Git, GitHub
+- CI/CD
+- Scrum
+
+---
+
+## 💡 O que você vai encontrar aqui
+
+- Projetos em Flutter (web, mobile e desktop)
+- Experimentações com arquitetura e testes
+- Estudos sobre performance e boas práticas
+- Contribuições em projetos open source
+
+---
+
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/anderson-da-conceicao-da-silva
+- Email: prey.anderson2@gmail.com
+
+---
+
+## 📊 Estatísticas
+
+<div align="center">
   <a href="https://github.com/Mrprey">
+    
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mrprey&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrprey&layout=compact&langs_count=16&theme=highcontrast"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mrprey&layout=compact&langs_count=10&theme=tokyonight"/>
+  
 </div>
 
+---
 
+## 🔥 Atividade
+
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com?user=Mrprey&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribuições
+
+<div align="center">
+
+  <img src="https://github.com/Mrprey/Mrprey/blob/output/github-contribution-grid-snake.svg" />
+
+</div>
